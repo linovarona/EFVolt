@@ -1,0 +1,11 @@
+# Carpetas excluidas del vault
+docs/
+apps/
+
+# Estado local de Obsidian (no se versiona)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Artefactos de Python (no se versionan)
+__pycache__/
+*.pyc

@@ -1,0 +1,11 @@
+﻿== LAGUNAS (en fuentes) ==
+TOTAL_LAGUNAS=3
+
+[lagunas-y-deuda-tecnica] hilo/vigente/alta: 3
+   - [ ] ### [[hilo-propuesta-growth-partner]] (4)
+   - [ ] ### [[lagunas-y-deuda-tecnica]] (0)
+   - [ ] Nada abierto.
+
+== DEUDA TECNICA (concepts/projects/hilo) ==
+TOTAL_DEUDA=0
+
